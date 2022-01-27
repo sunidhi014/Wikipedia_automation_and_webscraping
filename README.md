@@ -33,3 +33,5 @@ Run command:
 `npm install cheerio`
 
 Your project folder will look like this:
+
+![ss](https://user-images.githubusercontent.com/96500508/151433539-428efedf-6ae7-44bc-ae0e-78ebfaf91bdf.jpg)
